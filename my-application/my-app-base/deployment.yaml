@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: khalesha/nginx:v0.1.0
+          image: khalesha/nginx
           ports:
             - containerPort: 80
