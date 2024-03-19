@@ -7,4 +7,4 @@ images:
   - name: khalesha/nginx
     newTag: v0.1.0
 resources:
-  - ../../../my-app-base
+  - ../../../my-app-base/
