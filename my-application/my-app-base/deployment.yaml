@@ -17,6 +17,6 @@ spec:
       containers:
         - name: nginx
           imagePullPolicy: Always
-          image: khalesha/nginx
+          image: khalesha/nginx:v0.1.0
           ports:
             - containerPort: 80
